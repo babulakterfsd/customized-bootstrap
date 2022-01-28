@@ -1,0 +1,23 @@
+{
+  "name": "customized-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap starter setup with custom classes using scsss.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babulakterfsd/customized-bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babulakterfsd/customized-bootstrap/issues"
+  },
+  "homepage": "https://github.com/babulakterfsd/customized-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

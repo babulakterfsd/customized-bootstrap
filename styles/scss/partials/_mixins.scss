@@ -1,0 +1,4 @@
+@mixin grid2($fractions) {
+    display: grid;
+    grid-template-columns: repeat(1fr, $fractions);
+}
